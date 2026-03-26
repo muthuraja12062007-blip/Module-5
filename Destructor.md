@@ -21,9 +21,13 @@ The program defines a class `Demo` with:
    - Create an instance of the `Demo` class.
    - Delete the object using the `del` keyword.
 ## Program
-Add code Here
+![WhatsApp Image 2026-03-27 at 1 07 06 AM](https://github.com/user-attachments/assets/84a0eeb6-fde2-4694-b619-e82372782208)
+
 
 ## 🧪 Output
+![WhatsApp Image 2026-03-27 at 1 07 06 AM](https://github.com/user-attachments/assets/ebd96518-adb4-4457-8a69-9b3eae51cf87)
+
 
 ## Result
+Thus the program was successfully executed.and obtained the result
 

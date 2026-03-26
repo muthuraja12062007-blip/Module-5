@@ -12,8 +12,12 @@ To write a Python program that creates a **Student** class with a **default cons
 
 ## 🧾 Program
 
-Add code here
+![WhatsApp Image 2026-03-27 at 1 05 36 AM](https://github.com/user-attachments/assets/16ddfff7-97ed-403f-99c3-28b6dbb551c0)
+
 
 ## Output
+![WhatsApp Image 2026-03-27 at 1 05 36 AM (1)](https://github.com/user-attachments/assets/9da57c4d-a09f-4f86-addf-cf0660cdec17)
+
 
 ## Result
+Thus the program was successfully executed.and obtained the result

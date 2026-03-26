@@ -26,7 +26,33 @@ To write a Python program that uses multilevel inheritance to get and display a 
    - Print all details using class methods.
 
 ## Program
-Add code here
+## Parent Class
+class Parent: def init(self, name): self.name = name
+
+def getName(self):
+    return self.name
+## Child Class (inherits Parent)
+class Child(Parent): def init(self, name, age): super().init(name) self.age = age
+
+def getAge(self):
+    return self.age
+## Grandchild Class (inherits Child)
+class Grandchild(Child): def init(self, name, age, location): super().init(name, age) self.location = location
+
+def getLocation(self):
+    return self.location
+## Take user input
+name = input("Enter name: ") age = int(input("Enter age: ")) location = input("Enter location: ")
+
+## Create object
+obj = Grandchild(name, age, location)
+
+## Print details
+print("\nDetails:") print("Name:", obj.getName()) print("Age:", obj.getAge()) print("Location:", obj.getLocation())
 
 ## Sample Output
+![WhatsApp Image 2026-03-27 at 1 13 43 AM](https://github.com/user-attachments/assets/af4941d0-8d98-4d53-925e-fb94a0380a35)
+
+## Result
+Thus the program was successfully executed.and obtained the result.
 
